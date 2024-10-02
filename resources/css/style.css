@@ -15,6 +15,11 @@ h1 {
     text-align: center;
 }
 
+div {
+    position: relative;
+    text-align: center;
+}
+
 div p {
     text-align: center;
 }
